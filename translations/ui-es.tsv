@@ -1,0 +1,120 @@
+# Interfaz Win32 de nps.exe (menus, dialogos, avisos): hash FNV-1a64 del texto cp932 original <TAB> espanol; \t y \n escapados.
+90e6e63394738ec2	Copiar
+d6e5c4b9b3c27814	Menú emergente del juego
+dd9247fb7f9613ac	Cancelar\t
+906cb2ceee8392bd	Ocultar mensaje\tEspacio
+5aa818f14c3f915f	Avance automático\tA
+1d30a6970d805f5e	Saltar\tShift
+fb81bdc6ba589c9c	Volver a la elección\tCtrl + B
+c1a88c443bfe521d	Ver registro\tB
+fad7d390f8dc16c0	Abrir pantalla de guardado \tS
+aa08946405e52dc3	Abrir pantalla de carga\tL
+5dada1995127f6b3	Pantalla completa / ventana\tF
+e0838d4152660b1a	Mostrar/ocultar SCM\tM
+634454000ae2e248	Abrir ajustes\tC
+be5bd3095bb4f2e0	Volver al título\tT
+eb00015ad4006e4e	Salir del juego\tEsc
+ef237e6224604e39	Depuración
+538284b25c71d6e2	Información del guion
+66a3c97a6a506dd5	Mostrar nombre del guion\tCtrl + Z
+9fd57f7be6025209	Mostrar versión del guion\tCtrl + X
+bb87027555cf761f	Información del sistema
+35c68bb83c5dff9c	Mostrar versión del sistema\tCtrl + V
+bf87f0f68962268a	Buscar actualizaciones\tShift + V
+8d4c1c670618427b	Menú del deslizador
+0723bcb6260c10e3	Reproducir voz a velocidad doble
+f35b982950a3d9f2	No reproducir voz a velocidad doble
+50cac60025981920	Menú del registro
+e200983621d68fad	Cancelar
+a5914c5256e9cd5b	Volver al juego
+13fb83ecbab935de	Salir del juego
+27158ba1c8089867	Vista de marcos
+e7115df5f87ef335	Árbol de marcos
+081f76ab71d9bd88	Aquí se muestran los valores de las propiedades.
+59b18027182b81d1	Propiedades del marco
+3b3a982ef1ff816c	Ajustes
+4373b1db39a8cafd	&Cerrar
+dea96bb2959e63f5	Editar comentario
+27c6c955de00e383	Puedes editar el comentario.
+347965825025ef23	Básico
+7c39e58084aab651	Iniciar en pantalla completa
+cf698e1e5c0830d3	Seguir reproduciendo tras una elección
+7c6a10e0546c03da	No dibujar al saltar
+b01ac348bbaa9bc4	Editar comentario de los guardados
+32acb908e2ffc010	Vídeos
+8ceb89383938b0e8	Reproducir
+daa14165220ac601	No reproducir
+6e1c5fbc87ecffa7	Permitir saltar los vídeos
+aa527ba58f856f59	Usar MMX
+3b47c91ed593157e	Ignorar errores al abrir archivos
+5e3883a484de902f	Modo depuración
+7075160859f707fc	(sin voz y velocidad 11)
+25ce69dc781414b2	Ver registro con la rueda del ratón
+6804057df512b442	Avance automático si no hay voz
+c433cdc110c53731	Velocidad del texto
+04651525b569ad1c	Rápida
+03872d3ec8bbbb17	Lenta
+026a8ff636d82ef0	Espera del avance automático
+2598e3c04c31813e	Texto y mensajes
+6f0eb4f2ba2f1806	Velocidad de la ventana de mensajes
+a0e28b9fb100029a	Espera
+b4b033175704d101	Calidad de la ventana de mensajes
+0a21d307b68f7efc	Baja
+09f03c07b6668ace	Alta
+2ca19331c69a5e5e	Reproducir música
+332b2ba389115912	Reproducir efectos
+5a074eb3d8ddadca	Reproducir voces
+f7f854927dd99dac	Probar música
+12a906f6b1549bb0	Probar efectos
+6503d950c0821a98	Probar voz
+d68323b0f7151f6b	0,5x
+632ae43d4cd4eeb1	Normal
+e36f5aba75e7fed9	2x
+c23a875ea88d4faf	Volumen
+461c4f837716d91f	Ajustes por personaje
+e5c7f7af080babf0	Velocidad de la voz
+707d60d3d5fa9874	Buscar actualizaciones
+81956159cc1e6fb6	Web de soporte de Angelos Armas
+79887ab56e79a39b	Web de NitroPlus
+dcd454b38ba910a9	* Requiere conexión a internet.
+a43bd51f572e308a	Atajos de teclado
+c0a0fa456fb4bb96	Ocultar mensaje
+2a9742e91557f285	Avance automático
+9ebd474507913bf8	Saltar (sin voz y velocidad 11)
+fd39900d092bcf1b	Volver a la elección
+89161633f1c4ad78	Ver registro
+db65b7984e14e118	Abrir pantalla de guardado
+7f7e16d1aa5ed386	Abrir pantalla de carga
+c1a476c9b9c76214	Pantalla completa / ventana
+70dabe6ff0c1b7f8	Mostrar/ocultar menú de control (SCM)
+4489641dbce0c030	Abrir ajustes
+2c885131f7b2a435	Volver al título
+b3648273968cd9ad	Ajustar velocidad de reproducción y avance automático
+05a0c39f308d7ef6	← →
+41c12ac56991c5e2	Angelos Armas
+c50ba674c05f40ad	Angelos Armas
+7f13ca56e4358f98	¿Salir de Angelos Armas?
+3d7f54ee4df7656c	¿Saltar el vídeo en reproducción?
+dab3a48f7d122c9d	Error al recuperar los datos guardados.\nEl juego se cerrará.
+bade192d51239f57	Instalando datos guardados...
+cdead7684505eeba	Terminando el escenario actual...
+1a85615be0f9b02f	Cerrando el sistema del juego...
+29bcdfc72050d107	¿Interrumpir la partida y volver al título?
+289a2ee193c7c319	Reconstruyendo la última pantalla de elección...
+8b87945c455e8da4	¿Interrumpir la partida y volver a la última elección?
+a2c413c0b8f1ccf9	Inserta el disco «Angelos Armas Game Disc» en una unidad legible por el sistema.
+a30ef935bfc9981e	Texto
+55de26d83e9acbb6	Sonido
+44c7671919aaf3f2	Versión
+3e0514985f6db37a	Atajos
+0fd5bd30cad88e40	Komaki Watabe
+5b9ad40a2437839a	Fuko Watabe
+66825d2bda3d06e4	Jay
+952575a371ce59a2	Anri
+9df6b7979f4f1220	Peter
+e42c51b0220fc430	Wim
+8096c9c6ebae9f3f	Big Sam
+ab2d1cb40c8dff39	Sachi
+7bbdce2eaf2fd13a	Yoshimi Niinuma
+af5d056d8d528089	Issei Watabe
+d241ed1561f3ab2d	Otros personajes

@@ -1,0 +1,10 @@
+.env.local
+.claude/settings.local.json
+*~
+translations/manual/
+cache/
+*.npp
+*.bin
+*.iso
+__pycache__/
+*.pyc

@@ -1,0 +1,2 @@
+# Solo biblioteca estándar de Python 3.9+. No hay dependencias obligatorias.
+# Opcional: Ollama (https://ollama.com) para el borrador de traducción local, y la CLI `claude` para auditar/corregir.

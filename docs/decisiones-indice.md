@@ -1,0 +1,24 @@
+# Índice de decisiones (1 línea por D; detalle: `grep -A3 "D12 ·" docs/decisiones.md`)
+
+- D1 · Corrección en runtime: launcher + inyección de DLL.
+- D2 · Toolchain: compilación cruzada Win32 x86 desde Linux (i686-w64-mingw32 + CMake + MinHook).
+- D3 · Traducciones como tabla `hash → texto` (JSON o TSV por escena).
+- D4 · Los assets derivados se generan localmente desde la copia del usuario.
+- D5 · Repo privado, sin secretos, hook pre-commit que bloquea assets y claves.
+- D6 · No se elude DRM.
+- D7 · Política de contenido de la traducción (rev. 2026-11-15).
+- D8 · Video: escalera de soluciones, todo generado en local.
+- D9 · Avisos legales en el repo.
+- D10 · Sustitución de texto en runtime por hash
+- D11 · Caracteres latinos fuera de ASCII mapeados a la zona de usuario de SJIS (0xF040-0xF9FC)
+- D12 · Hoja de traducción manual (export/import) para las líneas `excluded:explicit` y la revisión humana.
+- D13 · Presentación moderna con un wrapper y sin reescribir el motor.
+- D14 · Host de desarrollo: Wine ≥ 11 en WoW64 nuevo.
+- D15 · La copia del usuario son imágenes BIN/CUE (disco de instalación + disco de juego) + parche oficial 1.1.2
+- D16 · Agente autónomo (rev. 2026-11-15).
+- D17 · Presupuesto: solo plan Pro, 2 semanas de cuota; sin API de pago.
+- D18 · GPU local (Ollama, qwen3:8b en RTX 4060 Ti 8 GB) para el trabajo masivo que no exige precisión:
+- D19 · Ahorro y velocidad (v8).
+- D20 · Flujo v9: checks sin IA, Opus solo en puertas de fase, traducción por capas.
+- D21 · Plan de 7 días hacia un prototipo jugable en español para Linux (v10).
+- D22 · Alcance ampliado por el usuario (2026-11-17, sesión interactiva).
